@@ -27,26 +27,26 @@ CREATE TABLE `projects` (
 -- Dumping data for table `projects`
 --
 INSERT INTO `projects` (`pid`, `title`, `start_date`, `end_date`, `short_description`, `phase`, `uid`) VALUES
-(1, 'Online Shopping Website', '2024-01-10', '2024-03-15', 'Building a website where customers can buy clothes and shoes online.', 'complete', 1),
-(2, 'Mobile Banking App', '2024-02-01', '2024-06-30', 'Creating an app so customers can check their balance and transfer money.', 'development', 2),
-(3, 'Restaurant Booking System', '2024-03-05', NULL, 'Making a system where people can book tables at restaurants.', 'design', 3),
-(4, 'School Attendance Tracker', '2023-09-01', '2024-01-20', 'Building software for teachers to track which students are present each day.', 'complete', 1),
-(5, 'Fitness Workout App', '2024-04-12', NULL, 'Creating an app that shows exercise videos and tracks workout progress.', 'development', 4),
-(6, 'Company Email Newsletter', '2024-05-01', NULL, 'Setting up automated emails to send weekly updates to customers.', 'testing', 2),
-(7, 'Parking Lot Management', '2024-01-15', '2024-04-10', 'Building a system to manage parking spaces and payments at the city mall.', 'complete', 5),
-(8, 'Online Quiz Platform', '2024-06-01', NULL, 'Making a website where teachers can create quizzes for students.', 'design', 3),
-(9, 'Inventory Tracking System', '2024-03-20', NULL, 'Creating software to track products in the warehouse.', 'development', 6),
-(10, 'Customer Support Chatbot', '2024-05-15', NULL, 'Building a chat system that answers common customer questions automatically.', 'testing', 1),
-(11, 'Photo Gallery Website', '2023-11-10', '2024-02-05', 'Making a website where users can upload and share their photos.', 'complete', 4),
-(12, 'Delivery Tracking App', '2024-04-01', NULL, 'Creating an app so customers can see where their package is in real-time.', 'development', 5),
-(13, 'Employee Time Clock', '2024-02-20', '2024-05-30', 'Building a system where workers can clock in and out each day.', 'deployment', 2),
-(14, 'Recipe Sharing Website', '2024-06-10', NULL, 'Making a site where people can post and find cooking recipes.', 'design', 6),
-(15, 'Appointment Scheduler', '2024-01-05', '2024-03-25', 'Creating a booking system for doctors and patients.', 'complete', 3),
-(16, 'Weather Forecast App', '2024-05-20', NULL, 'Building an app that shows the weather for the next 7 days.', 'development', 1),
-(17, 'Library Book System', '2024-03-15', NULL, 'Making software to check out books and manage library inventory.', 'testing', 4),
-(18, 'Expense Tracker', '2024-04-25', NULL, 'Creating an app where users can record their daily spending.', 'development', 6),
-(19, 'Video Streaming Platform', '2023-08-01', '2024-01-30', 'Building a website where users can watch and upload videos.', 'complete', 5),
-(20, 'Job Board Website', '2024-06-05', NULL, 'Making a site where companies can post jobs and people can apply.', 'design', 2);
+(1, 'Online Shopping Website', '2026-01-10', '2026-03-15', 'Building a website where customers can buy clothes and shoes online.', 'complete', 1),
+(2, 'Mobile Banking App', '2026-02-01', '2026-06-30', 'Creating an app so customers can check their balance and transfer money.', 'development', 2),
+(3, 'Restaurant Booking System', '2026-03-05', NULL, 'Making a system where people can book tables at restaurants.', 'design', 3),
+(4, 'School Attendance Tracker', '2023-09-01', '2026-01-20', 'Building software for teachers to track which students are present each day.', 'complete', 1),
+(5, 'Fitness Workout App', '2026-04-12', NULL, 'Creating an app that shows exercise videos and tracks workout progress.', 'development', 4),
+(6, 'Company Email Newsletter', '2026-05-01', NULL, 'Setting up automated emails to send weekly updates to customers.', 'testing', 2),
+(7, 'Parking Lot Management', '2026-01-15', '2026-04-10', 'Building a system to manage parking spaces and payments at the city mall.', 'complete', 5),
+(8, 'Online Quiz Platform', '2026-06-01', NULL, 'Making a website where teachers can create quizzes for students.', 'design', 3),
+(9, 'Inventory Tracking System', '2026-03-20', NULL, 'Creating software to track products in the warehouse.', 'development', 6),
+(10, 'Customer Support Chatbot', '2026-05-15', NULL, 'Building a chat system that answers common customer questions automatically.', 'testing', 1),
+(11, 'Photo Gallery Website', '2023-11-10', '2026-02-05', 'Making a website where users can upload and share their photos.', 'complete', 4),
+(12, 'Delivery Tracking App', '2026-04-01', NULL, 'Creating an app so customers can see where their package is in real-time.', 'development', 5),
+(13, 'Employee Time Clock', '2026-02-20', '2026-05-30', 'Building a system where workers can clock in and out each day.', 'deployment', 2),
+(14, 'Recipe Sharing Website', '2026-06-10', NULL, 'Making a site where people can post and find cooking recipes.', 'design', 6),
+(15, 'Appointment Scheduler', '2026-01-05', '2026-03-25', 'Creating a booking system for doctors and patients.', 'complete', 3),
+(16, 'Weather Forecast App', '2026-05-20', NULL, 'Building an app that shows the weather for the next 7 days.', 'development', 1),
+(17, 'Library Book System', '2026-03-15', NULL, 'Making software to check out books and manage library inventory.', 'testing', 4),
+(18, 'Expense Tracker', '2026-04-25', NULL, 'Creating an app where users can record their daily spending.', 'development', 6),
+(19, 'Video Streaming Platform', '2023-08-01', '2026-01-30', 'Building a website where users can watch and upload videos.', 'complete', 5),
+(20, 'Job Board Website', '2026-06-05', NULL, 'Making a site where companies can post jobs and people can apply.', 'design', 2);
 
 -- --------------------------------------------------------
 
