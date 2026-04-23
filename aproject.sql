@@ -64,7 +64,7 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 INSERT INTO `users` (`uid`, `username`, `password`, `email`) VALUES
-(1, 'Sarah_Johnson', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'sarah.johnson@company.com'),
+(1, 'Samad', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'samad@company.com'),
 (2, 'Mike_Chen', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'mike.chen@company.com'),
 (3, 'Emily_Brown', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'emily.brown@company.com'),
 (4, 'David_Lee', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'david.lee@company.com'),
@@ -73,7 +73,8 @@ INSERT INTO `users` (`uid`, `username`, `password`, `email`) VALUES
 (7, 'Rachel_Taylor', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'rachel.taylor@company.com'),
 (8, 'John_Wilson', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'john.wilson@company.com'),
 (9, 'Amy_Garcia', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'amy.garcia@company.com'),
-(10, 'Kevin_White', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'kevin.white@company.com');
+(10, 'Kevin_White', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'kevin.white@company.com'),
+(11, 'X', '$2y$10$KmmR2sa7nK1RfGyZQ4c.Ouo3sdiUmceA/2nHPixNzqoJBTxaQxctO', 'xax@g.com');
 
 --
 -- Indexes for dumped tables
